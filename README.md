@@ -4,8 +4,7 @@
 
 --------
 
-
-[![OneShot](https://vignette.wikia.nocookie.net/oneshotzn/images/5/5c/OneShot.png/revision/latest?cb=20190213073623&path-prefix=zh)](https://www.google.com/url?sa=i&url=https%3A%2F%2Foneshot.fandom.com%2Fzh%2Fwiki%2FOneShot&psig=AOvVaw2ZFNmwbKHZML1snZEmNvEI&ust=1594812319386000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC91YDRzOoCFQAAAAAdAAAAABAc)
+[![OneShot](OneShot.png)](https://oneshot.fandom.com/zh/wiki/OneShot)
 
 大家好，基於對 OneShot 的熱愛，希望能夠再由玩遊戲中有更好的體驗，因此製作這份中文化模組，供大家參考使用～
 
@@ -21,11 +20,12 @@
 
 ## 版本日誌
 
+1.0.1 修正部分錯誤
 1.0.0 初始版正體中文翻譯
 
 ## 安裝方式
 
-0. 至 [Gibhub download](https://github.com/danny657031/OneShot-TraditionalChinese-Translate) 點擊「 Code 」後，選擇 「 Download ZIP」，下載完成後解壓縮。
+0. 至 [Gibhub download](https://github.com/danny657031/OneShot-TraditionalChinese-Translate) 點擊「 Code 」後，選擇 「 Download ZIP」，下載完成後解壓縮，或者直接在 Google Drive下載並解壓縮。
 
 1. 尋找遊戲目標資料夾
 
@@ -58,7 +58,7 @@ Q1: 關於遊戲中用語「代碼」、「螺絲刀」等一詞的問題。
 > A1: 因為開中文化檔案受限於字數關係，原本我們用語是叫做「程式碼」，我也想不到其他替代單字，故持續沿用該說法。也有想過使用「編碼」，但意涵也不太對。因此其他少數名稱，如螺絲刀( = 螺絲起子) 等部分用語，基於技術問題難以翻譯，深感抱歉。
 
 Q2: 中文化是全面都有做到嗎？
-> A2: 大部分的文字與圖片檔案都有進行中文化，不過有部分文字檔由這款遊戲自己，這部分中文化技術上沒辦法處理。
+> A2: 大部分的文字與圖片檔案都有進行中文化，不過有部分文字檔由這款遊戲自己生成，這部分中文化技術上沒辦法處理。
 
 Q3: 還會持續更新嗎？
 > A3: 若大家願意提供給我一些錯誤的用詞，我會盡快進行修正上傳，非常謝謝大家一起願意讓這遊戲變得更好。
@@ -76,3 +76,8 @@ Q3: 還會持續更新嗎？
 未來將不定期進行修正，直到開發者評估無需再繼續開發為止。
 
 有任何問題或建議，可至在各大板上留言，期望能夠讓中文化更加完善。
+
+## 下載連結
+
+1. Google: https://drive.google.com/file/d/1KrR7z5F9iJpqIu44uTgPzAN1oluPHFMA/view?usp=sharing
+2. Github: https://github.com/danny657031/OneShot-TraditionalChinese-Translate#readme
