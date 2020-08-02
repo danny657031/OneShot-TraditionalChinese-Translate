@@ -106,6 +106,6 @@ Q5: 版本的更新如何得知？
 
 ## 下載連結
 
-1. Google: https://drive.google.com/file/d/1KrR7z5F9iJpqIu44uTgPzAN1oluPHFMA/view?usp=sharing
+1. Google: https://drive.google.com/file/d/1UipzJqPo9rKv8o8wEHFfIYez9rTHcIpp/view?usp=sharing
 2. Github: https://github.com/danny657031/OneShot-TraditionalChinese-Translate#readme
 3. Steam 討論區: https://steamcommunity.com/sharedfiles/filedetails/?id=2180206255
