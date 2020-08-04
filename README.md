@@ -20,6 +20,12 @@
 
 ## 版本日誌
 
+2.1.0
+
+- 大量修正錯誤的文本敘述與字體顯示錯誤
+- 部分圖檔用字格式、語法與位置修訂
+- 文字限字解除，已修正大部分專有名詞
+
 2.0.0 大幅更新版本
 
 - 提示字體修正
@@ -69,8 +75,9 @@
 
 ## Q & A
 
-Q1: 關於遊戲中用語「代碼」、「螺絲刀」等一詞的問題。
-> A1: 因為開中文化檔案受限於字數關係，原本我們用語是叫做「程式碼」，我也想不到其他替代單字，故持續沿用該說法。也有想過使用「編碼」，但意涵也不太對。因此其他少數名稱，如螺絲刀( = 螺絲起子) 等部分用語，基於技術問題難以翻譯，深感抱歉。
+~~Q1: 關於遊戲中用語「代碼」、「螺絲刀」等一詞的問題。~~
+~~> A1: 因為開中文化檔案受限於字數關係，原本我們用語是叫做「程式碼」，我也想不到其他替代單字，故持續沿用該說法。也有想過使用「編碼」，但意涵也不太對。因此其他少數名稱，如螺絲刀( = 螺絲起子) 等部分用語，基於技術問題難以翻譯，深感抱歉。~~
+> 目前已解決此項問題，感謝大家給予的協助～
 
 Q2: 中文化是全面都有做到嗎？
 > A2: 大部分的文字與圖片檔案都有進行中文化，Windows版本中有個程式「 _______.exe 」，這部分中文化技術上沒辦法處理，Mac版本有提供中文化圖片協助。
@@ -106,6 +113,6 @@ Q5: 版本的更新如何得知？
 
 ## 下載連結
 
-1. Google: https://drive.google.com/file/d/1UipzJqPo9rKv8o8wEHFfIYez9rTHcIpp/view?usp=sharing
+1. Google: https://drive.google.com/file/d/1GMy7xNQTtXb3-k-FJ-yZx7fGJbZK2dWK/view?usp=sharing
 2. Github: https://github.com/danny657031/OneShot-TraditionalChinese-Translate#readme
 3. Steam 討論區: https://steamcommunity.com/sharedfiles/filedetails/?id=2180206255
