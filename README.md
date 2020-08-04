@@ -20,6 +20,10 @@
 
 ## 版本日誌
 
+2.1.1
+
+- 補上遺漏項目
+
 2.1.0
 
 - 大量修正錯誤的文本敘述與字體顯示錯誤
@@ -113,6 +117,6 @@ Q5: 版本的更新如何得知？
 
 ## 下載連結
 
-1. Google: https://drive.google.com/file/d/1GMy7xNQTtXb3-k-FJ-yZx7fGJbZK2dWK/view?usp=sharing
+1. Google: https://drive.google.com/file/d/1NW3oXsM_PooMmc6rAbIW6Bykx-Fmz2ej/view?usp=sharing
 2. Github: https://github.com/danny657031/OneShot-TraditionalChinese-Translate#readme
 3. Steam 討論區: https://steamcommunity.com/sharedfiles/filedetails/?id=2180206255
